@@ -1,12 +1,11 @@
-# 🌍 Soumik Ghosh  
-**Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling-Change & Policy**  
+# 🌍 [Soumik Ghosh](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca)  
+**Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling-Change & Policy**
 
-📍 Montréal, Canada  
-
-📧 Soumik.ghosh@fulbrightmail.org
+📧soumik.ghosh@fulbrightmail.org
 
 [LinkedIn](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Soumik-Ghosh-2) | [Orcid ID](https://github.com/user-attachments/assets/b5199a6e-10e9-40a0-8f41-7e6c3071f61b)
 
+📍 [Montréal](https://en.wikipedia.org/wiki/Montreal), [Canada](https://en.wikipedia.org/wiki/Canada) 
 ---
 
 ## 🔬 About Me
