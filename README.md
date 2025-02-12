@@ -150,7 +150,7 @@ I have a proven research record with **23+ international publications** and seve
 
 ---
 
-# 👨‍🏫 Conferences Presentation (Self-Presented Articles Only)
+## 👨‍🏫 Conferences Presentation (Self-Presented Articles Only)
 
 - **03/06/2024 – 06/06/2024**: “Revisiting the Saguenay 1996 flood and analysis of added value from convection-permitting regional climate model.”  
   **Event**: Canadian Meteorological and Oceanographic Society (CMOS), Canada.
@@ -199,7 +199,7 @@ I have a proven research record with **23+ international publications** and seve
 
 
 ---
-# 👨‍🏫 Talk/Invited Lecture
+## 👨‍🏫 Talk/Invited Lecture
 
 - **2024**: Annual meeting of the **SACHR** project and annual conference of the **ARRIMÉ** project.
   **Venue**: Pavillon Président-Kennedy, Université du Québec à Montréal, Montréal, Canada
@@ -216,9 +216,9 @@ I have a proven research record with **23+ international publications** and seve
 
 ---
 
-### 🤝 **Professional Service**  
+## 🤝 Professional Service  
 
-**Peer-review Reviewer**  
+### **Peer Reviewer**  
 *Journal of Climate* • *Geophysical Research Letters* • *Climate Dynamics* • *Journal of Geophysical Research-Atmospheres*  
 *Earth Systems and Environment* • *Atmospheric Research* • *Atmospheric Science Letter* • *Theoretical and Applied Climatology*  
 *Journal of Mountain Science* • *Atmósfera* • *Environment-Development and Sustainability* • *Jàmbá: Journal of Disaster Risk Studies*  
@@ -228,8 +228,6 @@ I have a proven research record with **23+ international publications** and seve
 - **Life Member**: Indian Meteorological Society (IMS) *(since 2019)*, South Asian Meteorological Association (SAMA) *(since 2020)*  
 - **Regular Member**: Canadian Meteorological and Oceanographic Society (CMOS), American Meteorological Society (AMS), European Geosciences Union (EGU)  
 - **Affiliated with**: Prerona the Inspiration ([preronaindia.org](http://www.preronaindia.org)), National Academy of Young Scientists (NAYS), Indian Climate Research Network (ICRN), Young Earth System Scientists (YESS)
-
----
 
 ### **Outreach**  
 - **Fulbright Cultural Ambassador Program (June 2019 – August 2019)**
