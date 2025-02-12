@@ -24,21 +24,18 @@ I have a proven research record with **23+ international publications** and seve
 ## 🧑‍💼 Professional Experience
 
 ### **2023 – Present**: *Postdoctoral Researcher*  
-**Centre ESCER, Department of Earth and Atmospheric Sciences, UQAM**  
-Université du Québec à Montréal, Montréal, Canada  
+**Centre ESCER, UQAM | Université du Québec à Montréal**, Montréal, Canada 
 **Project**: Hydrometeorological simulation analyses (2.5km and 12km) and assessments of associated risks.
 
 ### **2020 – 2023**: *Postdoctoral Fellow*  
-**Department of Earth and Planetary Science, Weizmann Institute of Science**  
-Rehovot, Israel  
+**Department of Earth and Planetary Science, Weizmann Institute of Science**, Rehovot, Israel  
 **Project**: Atmospheric Dynamics.
 
 ### **2019 – 2020**: *Fulbright Scholar*  
 **Scripps Institution of Oceanography, University of California San Diego (UCSD), CA, USA**
 
 ### **2015 – 2016**: *Junior Research Fellow (JRF)*  
-**Department of Geophysics, Banaras Hindu University**  
-Varanasi, India
+**Department of Geophysics, Banaras Hindu University**, Varanasi, India
 
 ### **2013 – 2015**: *Junior Research Fellow (JRF)*  
 **The Central University of South Bihar (formerly: Central University of Bihar), India**
@@ -248,7 +245,7 @@ Varanasi, India
 
 ### **Outreach**  
 - **Fulbright Cultural Ambassador Program (June 2019 – August 2019)**
-  During my Fulbright Cultural Ambassador training at Temple University, Philadelphia, USA, I was involved in 5 different projects, including:
+  During my Fulbright Cultural Ambassador training at Temple University, Philadelphia, USA, I was involved in different projects, including:
   - Food service for the homeless at Church
   - Science promotion at Kidz School
   - Rehabilitation support for criminals
