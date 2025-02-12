@@ -77,7 +77,8 @@ I have a proven research record with **23+ international publications** and seve
 ---
 
 ## 🛠️ Skills (Categorized)
-**Programming & Visualization**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Python • Shell Script • MATLAB • JupyterHub • GrADS 
+**Programming & Visualization**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Python • Shell Script • MATLAB • JupyterHub • GrADS • Deep learning
+
 
 **Data Management & Analysis**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
 
