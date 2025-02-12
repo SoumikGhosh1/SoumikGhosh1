@@ -80,30 +80,22 @@ I have a proven research record with **23+ international publications** and seve
 ---
 
 ## 🛠️ Skills (Categorized)
+**Programming & Visualization**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Python • Shell Script • MATLAB • JupyterHub • GrADS 
 
-### Programming & Scripting & Visualization
-- Python • Shell Script • MATLAB • JupyterHub • GrADS
+**Data Management & Analysis**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
 
-### Data Management & Analysis
-- Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
+**Tools**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; EOF • EEOF • PCA • Heat Budget • Moisture Budget • Momentum Budget
 
-### Tools
-- EOF • EEOF • PCA • Heat Budget • Moisture Budget • Momentum Budget
+**Climate Science & Modeling**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Climate Change Analysis • Dynamical Downscaling • Regional & Global Climate Modeling (CMIP, Historical, SSP) • Convection-Permitting Modeling • Idealized Modeling • RegCM • CRCM6 • ISCA
 
-### Climate Science & Modeling: 
-Climate Change Analysis • Dynamical Downscaling • Regional & Global Climate Modeling (CMIP, Historical, SSP) • Convection-Permitting Modeling • Idealized Modeling • RegCM • CRCM6 • ISCA
+**High-Performance Computing (HPC)**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Calcul Canada • Cheyenne (NCAR) • Chemfarm (Israel) etc.
 
-### High-Performance Computing (HPC)
-- Calcul Canada • Cheyenne (NCAR) • Chemfarm (Israel) etc.
+**Operating System**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Unix • Linux • Windows
 
-### Operating System
-- Unix • Linux • Windows
+**Machine Learning & AI in Climate Science**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; AI & ML for Climate Modeling
 
-### Machine Learning & AI in Climate Science
-- AI & ML for Climate Modeling
+**Documentation & Presentation**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; MS Office (Word, Excel, PowerPoint) • LaTeX • Scientific Writing & Publishing
 
-### Documentation & Presentation
-- MS Office (Word, Excel, PowerPoint) • LaTeX • Scientific Writing & Publishing
 
 ---
 
