@@ -45,7 +45,7 @@ Varanasi, India
 
 ## 🎓 Education
 
-### **Doctor of Philosophy (Ph.D.) in Physics / Atmospheric Physics / Climate Modeling & Change**  
+### **Doctor of Philosophy (Ph.D.) in Physics **  
 **2015 – 2020**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Banaras Hindu University, Varanasi, India**  
 &nbsp;&nbsp;&nbsp;& &nbsp;**Scripps Institution of Oceanography, University of California, San Diego, CA, USA**  
