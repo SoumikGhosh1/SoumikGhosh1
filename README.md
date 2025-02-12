@@ -262,4 +262,4 @@ Varanasi, India
 ---
 
 
-Let's collaborate and drive meaningful climate research together! 
+**Let's *collaborate* and drive meaningful climate research together!**
