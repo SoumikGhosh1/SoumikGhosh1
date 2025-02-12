@@ -11,9 +11,11 @@
 
 ## 🔬 About Me
 I am a climate researcher with **12+ years** of experience specializing in:
-- Global, regional, and kilometer-scale **climate modeling**
+- Global, Regional, and kilometer-scale **climate modeling**
+- **Convection-permitting climate modeling**
 - **Hydrometeorological risk assessment**
-- **Atmospheric dynamics & climate change**
+- **Atmospheric dynamics**
+- **Climate Change**
 
 I have a proven research record with **23+ international publications** and several prestigious awards, including a **Fulbright Grant**.
 
