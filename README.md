@@ -83,28 +83,28 @@ I have a proven research record with **23+ international publications** and seve
 ## 🛠️ Skills (Categorized)
 
 ### Programming & Scripting & Visualization
-- **Python** • **Shell Script** • **MATLAB** • **JupyterHub** • **GrADS**
+- Python • Shell Script • MATLAB • JupyterHub • GrADS
 
-### Data Management & Analysis  
-- **Data Handling** • **Big Data Processing (350TB+)** • **netCDF** • **GRIB** • **CDO** • **NCO** • **Spatial Analysis** • **Statistical Analysis**  
+### Data Management & Analysis
+- Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
 
-### Tools 
-- **EOF** • **EEOF** • **PCA** • **Heat Budget** • **Moisture Budget** • **Momentum Budget**
+### Tools
+- EOF • EEOF • PCA • Heat Budget • Moisture Budget • Momentum Budget
 
-### Climate Science & Modeling  
-- **Climate Change Analysis** • **Dynamical Downscaling** • **Regional & Global Climate Modeling (CMIP, Historical, SSP)** • **Convection-Permitting Modeling** • **Idealized Modeling** • **RegCM** • **CRCM6** • **ISCA**  
+### Climate Science & Modeling: 
+Climate Change Analysis • Dynamical Downscaling • Regional & Global Climate Modeling (CMIP, Historical, SSP) • Convection-Permitting Modeling • Idealized Modeling • RegCM • CRCM6 • ISCA
 
-### High-Performance Computing (HPC)  
-- **Calcul Canada** • **Cheyenne (NCAR)** • **Chemfarm (Israel)**  
+### High-Performance Computing (HPC)
+- Calcul Canada • Cheyenne (NCAR) • Chemfarm (Israel) etc.
 
-### Operating System 
-- **Unix** • **Linux** • **Windows**  
+### Operating System
+- Unix • Linux • Windows
 
-### Machine Learning & AI in Climate Science  
-- **AI & ML for Climate Modeling**  
+### Machine Learning & AI in Climate Science
+- AI & ML for Climate Modeling
 
-### Documentation & Presentation  
-- **MS Office (Word, Excel, PowerPoint)** • **LaTeX** • **Scientific Writing & Publishing**  
+### Documentation & Presentation
+- MS Office (Word, Excel, PowerPoint) • LaTeX • Scientific Writing & Publishing
 
 ---
 
