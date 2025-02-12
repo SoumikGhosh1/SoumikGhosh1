@@ -132,7 +132,7 @@ Varanasi, India
 ## 📚 📄 Peer-Reviewed Publications [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en)
 
 ### In Preparation
-1. **Ghosh, S.**, Lucas-Picher, P., Roy, P., Gachon, P., & Di Luca, A. (2024). *Optimal Configuration of a Convection-Permitting Regional Climate Model for Precipitation Extremes: An Historical Case Study*. *Journal of Hydrometeorology* (in preparation).
+1. **Ghosh, S.**, Lucas-Picher, P., Roy, P., Gachon, P., & Di Luca, A. (2025). *Optimal Configuration of a Convection-Permitting Regional Climate Model for Precipitation Extremes: An Historical Case Study*. *Journal of Hydrometeorology* (under review).
 
 ### Published / Accepted
 2. **Ghosh, S.**, Lachmy, O., & Kaspi, Y. (2024). *The role of diabatic heating in the midlatitude atmospheric circulation response to climate change*. *Journal of Climate*, 37(10), 2987–3009. [DOI: 10.1175/JCLI-D-23-0345.1](https://doi.org/10.1175/JCLI-D-23-0345.1) *(Corresponding author)*  
