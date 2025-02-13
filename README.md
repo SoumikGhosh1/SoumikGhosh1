@@ -153,10 +153,10 @@ I have a proven research record with **23+ international publications** and seve
 
 ## 👨‍🏫 Conferences Presentation (Self-Presented Articles Only)
 
-- **03/06/2024 – 06/06/2024**: “Revisiting the Saguenay 1996 flood and analysis of added value from convection-permitting regional climate model.”  
+- **03/06/2024 – 06/06/2024**: “[Revisiting the Saguenay 1996 flood and analysis of added value from convection-permitting regional climate model.](https://cmos.in1touch.org/client/relation_roster/clientRelationRosterDetails.html?clientRelationId=2945793&clientRelationRosterId=112&no_header=true&bodyonly=true)”  
   **Event**: Canadian Meteorological and Oceanographic Society (CMOS), Canada.
   
-- **23/04/2023 – 28/04/2023**: “The Latitudinal Shift of the Midlatitude Atmospheric Circulation in Response to Climate Change and the Role of Midlatitude Diabatic Heating.”  
+- **23/04/2023 – 28/04/2023**: “[The Latitudinal Shift of the Midlatitude Atmospheric Circulation in Response to Climate Change and the Role of Midlatitude Diabatic Heating.](https://doi.org/10.5194/egusphere-egu23-1801)”  
   **Event**: EGU General Assembly 2023, Vienna, Austria. 
 
 - **27/11/2022 – 29/09/2022**: “The Latitudinal Shift of the Midlatitude Circulation in Response to Climate Change and the Role of Midlatitude Diabatic Heating.”  
@@ -168,7 +168,7 @@ I have a proven research record with **23+ international publications** and seve
 - **05/04/2022 – 06/04/2022**: “The Response of the Ferrel Cell and Eddy Driven Jet to Climate Change and the Role of Moisture.”  
   **Event**: Symposium of Geophysical Fluid Dynamics (GFD days), Sde-Boker campus, Ben-Gurion University, Israel.  
 
-- **17/09/2018 – 21/09/2018**: “Aspect of GCM Downscaled Regional Climate Modeling in Simulating Spatiotemporal Monsoon Variability During ENSO and Normal Conditions and Dependencies on Boundary Conditions.”  
+- **17/09/2018 – 21/09/2018**: “[Aspect of GCM Downscaled Regional Climate Modeling in Simulating Spatiotemporal Monsoon Variability During ENSO and Normal Conditions and Dependencies on Boundary Conditions](https://www.wcrp-climate.org/s2s-s2d-2018-home).”  
   **Event**: International Conferences on Subseasonal to Decadal Prediction (S2D), NCAR/UCAR, Boulder, CO, USA.  
 
 - **16/12/2017**: “Aspect of Downscaled Regional Climate Modeling in Simulating the Variability of Indian Summer Monsoon.”  
