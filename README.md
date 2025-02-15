@@ -9,7 +9,7 @@
 📍 [Montréal](https://en.wikipedia.org/wiki/Montreal), [Canada](https://en.wikipedia.org/wiki/Canada) 
 ---
 
-## 🔬 About Me
+## 🔬 About Me 
 I am a climate researcher with **12+ years** of experience specializing in:
 - Global, Regional, and kilometer-scale **climate modeling**
 - **Convection-permitting climate modeling**
