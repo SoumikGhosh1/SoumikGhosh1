@@ -1,4 +1,4 @@
-# 🌍 [Soumik Ghosh](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca)
+# 🌍 [Soumik Ghosh](www.linkedin.com/in/soumik-ghosh-ph-d-97004277)
 
 **Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling-Change & Policy**
 
