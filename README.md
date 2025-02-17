@@ -10,7 +10,7 @@
 ---
 
 ## 🔬 About Me 
-I am a climate researcher with **12+ years** of experience specializing in:
+I am a climate researcher with **12 years** of experience specializing in:
 - Global, Regional, and kilometer-scale **climate modeling**
 - **Convection-permitting climate modeling**
 - **Hydrometeorological risk assessment**
@@ -51,11 +51,11 @@ I have a proven research record with **23+ international publications** and seve
 
 ## 🚀 Research & Expertise
 
-- **Climate Modeling**: Dynamical downscaling, idealized climate modeling (ISCA, CRCM6, RegCM)
+- **Climate Modeling**: idealized climate modeling (ISCA), Global Climate Modeling (e.g., CMIP), Dynamical downscaling (CRCM6, RegCM) 
 - **High-Performance Computing (HPC)**: Experienced with **Calcul Canada, Cheyenne (NCAR), Chemfarm (Israel)**
 - **Big Data Analysis**: Processed **350TB+ data** for a single publication
-- **Machine Learning (ML) for Climate Science**
-- **Scientific Writing & Publications**: Lead author in high-impact journals
+- **Machine Learning (ML)** for Climate Science
+- **Scientific Writing & Publications**: Lead author in 6 high-impact journals (e.g., Journal of Climate, Climate Dynamics, Atmospheric Research etc.)
 
 ---
 
