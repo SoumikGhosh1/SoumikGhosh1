@@ -2,4 +2,5 @@ title: Soumik Ghosh
 logo: /assets/IMG_4829.png
 description: Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling-Change & Policy
 show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
