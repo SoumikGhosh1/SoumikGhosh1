@@ -5,9 +5,9 @@ logo: "assets/IMG_4829.png"
 description: "Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change"
 search: true
 show_downloads: true
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # theme: jekyll-theme-dinky
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 
 
