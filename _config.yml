@@ -6,11 +6,18 @@ description: "Atmospheric & Climate Researcher | Extreme Weather & Climate Risk 
 search: true
 show_downloads: true
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-dinky
+# theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
+
 
 
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+
+<footer>
+  <p>© 2025 Soumik Ghosh </p>
+</footer>
 
