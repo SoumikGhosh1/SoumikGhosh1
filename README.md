@@ -1,4 +1,4 @@
-### Contact Me 📧
+### 📧 Contact Me
 [soumik.ghosh@fulbrightmail.org](mailto:soumik.ghosh@fulbrightmail.org)
 Feel free to reach out via email if you have any questions or comments!
 
