@@ -1,7 +1,20 @@
+---
+layout: default
+---
+
+# Welcome to My Website!
+
+![Logo](assets/IMG_4829.png)
+
+### Contact Me 📧
+[soumik.ghosh@fulbrightmail.org](mailto:soumik.ghosh@fulbrightmail.org)
+
+Feel free to reach out via email if you have any questions or comments!
+
+
 📧soumik.ghosh@fulbrightmail.org
 
 [LinkedIn](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Soumik-Ghosh-2) | [Orcid ID](https://github.com/user-attachments/assets/b5199a6e-10e9-40a0-8f41-7e6c3071f61b)
-
 ---
 ## 🔬 About Me 
 I am a climate researcher with **12 years** of experience specializing in:
