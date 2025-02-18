@@ -4,7 +4,7 @@
 # Theme Selection
 theme: jekyll-theme-minimal
 
-# Website Title
+# Website Title and Email
 title: "Soumik Ghosh"
 email: "soumik.ghosh@fulbrightmail.org"
 
@@ -19,11 +19,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Social Media (Manually added in Footer or Index)
-linkedin: "https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca"
-scholar: "https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en"
-github: "https://github.com/SoumikGhosh1"
-researchgate: "https://www.researchgate.net/profile/Soumik-Ghosh-2"
+# Social Media Links
+social:
+  linkedin: "https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca"
+  scholar: "https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en"
+  github: "https://github.com/SoumikGhosh1"
+  researchgate: "https://www.researchgate.net/profile/Soumik-Ghosh-2"
+
+# Email Display in Footer (Markdown link)
+email: "[soumik.ghosh@fulbrightmail.org](mailto:soumik.ghosh@fulbrightmail.org)"
+
 
 
 
