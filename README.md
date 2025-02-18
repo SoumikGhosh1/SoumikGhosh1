@@ -1,3 +1,9 @@
+📧soumik.ghosh@fulbrightmail.org
+
+[LinkedIn](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Soumik-Ghosh-2) | [Orcid ID](https://github.com/user-attachments/assets/b5199a6e-10e9-40a0-8f41-7e6c3071f61b)
+
+📍 [Montréal](https://en.wikipedia.org/wiki/Montreal), [Canada](https://en.wikipedia.org/wiki/Canada)
+---
 ## 🔬 About Me 
 I am a climate researcher with **12 years** of experience specializing in:
 - Global, Regional, and kilometer-scale **climate modeling**
@@ -70,19 +76,19 @@ The Central University of South Bihar (formerly: **Central University of Bihar**
 **Programming & Visualization**  **::**&nbsp; Python • Shell Script • MATLAB • JupyterHub • GrADS • Deep learning
 
 
-**Data Management & Analysis**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
+**Data Management & Analysis**  **::**&nbsp; Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
 
-**Tools**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; EOF • EEOF • PCA • Heat Budget • Moisture Budget • Momentum Budget
+**Tools**  **::**&nbsp; EOF • EEOF • PCA • Heat Budget • Moisture Budget • Momentum Budget
 
-**Climate Science & Modeling**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Climate Change Analysis • Dynamical Downscaling • Regional & Global Climate Modeling (CMIP, Historical, SSP) • Convection-Permitting Modeling • Idealized Modeling • RegCM • CRCM6 • ISCA
+**Climate Science & Modeling**  **::**&nbsp; Climate Change Analysis • Dynamical Downscaling • Regional & Global Climate Modeling (CMIP, Historical, SSP) • Convection-Permitting Modeling • Idealized Modeling • RegCM • CRCM6 • ISCA
 
-**High-Performance Computing (HPC)**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Calcul Canada • Cheyenne (NCAR) • Chemfarm (Israel) etc.
+**High-Performance Computing (HPC)**  **::**&nbsp; Calcul Canada • Cheyenne (NCAR) • Chemfarm (Israel) etc.
 
-**Operating System**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Unix • Linux • Windows
+**Operating System**  **::**&nbsp; Unix • Linux • Windows
 
-**Machine Learning & AI in Climate Science**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; AI & ML for Climate Modeling
+**Machine Learning & AI in Climate Science**  **::**&nbsp; AI & ML for Climate Modeling
 
-**Documentation & Presentation**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; MS Office (Word, Excel, PowerPoint) • LaTeX • Scientific Writing & Publishing
+**Documentation & Presentation**  **::**&nbsp; MS Office (Word, Excel, PowerPoint) • LaTeX • Scientific Writing & Publishing
 
 
 ---
