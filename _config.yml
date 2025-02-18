@@ -1,16 +1,6 @@
-# title: "Soumik Ghosh"
-# email: "soumik.ghosh@fulbrightmail.org"
-
-# logo: "assets/IMG_4829.png"
-# description: "Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change"
-# search: true
-# show_downloads: true
-# # theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
 
-# plugins:
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
 title: "Soumik Ghosh"
 email: "soumik.ghosh@fulbrightmail.org"
 
@@ -25,15 +15,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Navigation Links
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Publications"
-    url: "/publications"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Contact"
-    url: "/contact"
+# Social Media Links
+social_links:
+  linkedin: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
+  scholar: "https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"
+  github: "https://github.com/YOUR-GITHUB"
+  twitter: "https://twitter.com/YOUR-TWITTER"
+  researchgate: "https://www.researchgate.net/profile/YOUR-PROFILE"
 
 
