@@ -6,7 +6,6 @@ theme: jekyll-theme-minimal
 
 # Website Title and Email
 title: "Soumik Ghosh"
-email: "soumik.ghosh@fulbrightmail.org"
 
 # Logo & Description
 logo: "assets/IMG_4829.png"
@@ -19,16 +18,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Social Media Links
-social:
-  linkedin: "https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca"
-  scholar: "https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en"
-  github: "https://github.com/SoumikGhosh1"
-  researchgate: "https://www.researchgate.net/profile/Soumik-Ghosh-2"
 
-# Email Display in Footer (Markdown link)
-email: "[soumik.ghosh@fulbrightmail.org](mailto:soumik.ghosh@fulbrightmail.org)"
-
-
+# Footer Information
+copyright: "© 2025 Soumik Ghosh. All rights reserved."
 
 
