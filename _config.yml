@@ -1,26 +1,28 @@
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
 
-title: "Soumik Ghosh"
-# email: "soumik.ghosh@fulbrightmail.org"
-
+# Theme Selection
 theme: jekyll-theme-minimal
+
+# Website Title
+title: "Soumik Ghosh"
+
+# Logo & Description
 logo: "assets/IMG_4829.png"
 description: "Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change"
 search: true
-# show_downloads: true
+# show_downloads: true  # Enable downloads
 
-# SEO and Sitemap
+# SEO and Sitemap Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Social Media Links
-social_links:
-  linkedin: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
-  scholar: "https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"
-  github: "https://github.com/YOUR-GITHUB"
-  twitter: "https://twitter.com/YOUR-TWITTER"
-  researchgate: "https://www.researchgate.net/profile/YOUR-PROFILE"
+# Social Media (Manually added in Footer or Index)
+linkedin: "https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca"
+scholar: "https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en"
+github: "https://github.com/SoumikGhosh1"
+researchgate: "https://www.researchgate.net/profile/Soumik-Ghosh-2"
+
 
 
