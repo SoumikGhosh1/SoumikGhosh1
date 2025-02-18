@@ -2,13 +2,13 @@
 # theme: jekyll-theme-cayman
 
 title: "Soumik Ghosh"
-email: "soumik.ghosh@fulbrightmail.org"
+# email: "soumik.ghosh@fulbrightmail.org"
 
 theme: jekyll-theme-minimal
 logo: "assets/IMG_4829.png"
 description: "Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change"
 search: true
-show_downloads: true
+# show_downloads: true
 
 # SEO and Sitemap
 plugins:
