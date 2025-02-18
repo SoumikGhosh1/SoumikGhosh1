@@ -12,19 +12,19 @@ I have a proven research record with **23+ international publications** and seve
 
 ## 🧑‍💼 Professional Experience
 **2023 – Present**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Postdoctoral Researcher**  
-Centre ESCER, **UQAM | Université du Québec à Montréal**, Montréal, Canada   
+Centre **ESCER**, UQAM | **Université du Québec à Montréal**, Canada   
 
-**2020 – 2023** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Postdoctoral Researcher**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Earth and Planetary Science, **Weizmann Institute of Science**, Rehovot, Israel  
+**2020 – 2023** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Postdoctoral Fellow**  
+Department of Earth and Planetary Science, **Weizmann Institute of Science**, Rehovot, Israel  
 
 **2019 – 2020** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Fulbright Scholar**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Scripps Institution of Oceanography*, **University of California**, San Diego, CA, USA 
+*Scripps Institution of Oceanography*, **University of California**, San Diego, CA, USA 
 
 **2015 – 2016** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Junior Research Fellow (JRF)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Geophysics, **Banaras Hindu University**, Varanasi, India 
+Department of Geophysics, **Banaras Hindu University**, Varanasi, India 
 
 **2013 – 2015** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Junior Research Fellow (JRF)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Central University of South Bihar (formerly: **Central University of Bihar**), India
+The Central University of South Bihar (formerly: **Central University of Bihar**), India
 
 ---
 
@@ -67,7 +67,7 @@ Centre ESCER, **UQAM | Université du Québec à Montréal**, Montréal, Canada
 ---
 
 ## 🛠️ Skills (Categorized)
-**Programming & Visualization**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Python • Shell Script • MATLAB • JupyterHub • GrADS • Deep learning
+**Programming & Visualization**  **::**&nbsp; Python • Shell Script • MATLAB • JupyterHub • GrADS • Deep learning
 
 
 **Data Management & Analysis**  &nbsp;&nbsp;&nbsp;&nbsp;**::**&nbsp;&nbsp;&nbsp;&nbsp; Data Handling • Big Data Processing *(350TB+)* • netCDF • GRIB • CDO • NCO • Spatial Analysis • Statistical Analysis
