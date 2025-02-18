@@ -10,7 +10,7 @@ I am a climate researcher with **12 years** of experience specializing in:
 
 I have a proven research record with **23+ international publications** and several prestigious awards, including a **Fulbright Grant**.
 
-Feel free to reach out via email [📧](mailto:soumik.ghosh@fulbrightmail.org) if you have any questions or comments!
+Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.org)* if you have any questions or comments!
 
 ---
 
