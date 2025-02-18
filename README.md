@@ -222,7 +222,6 @@ The Central University of South Bihar (formerly: **Central University of Bihar**
 ### **Member**  
 - **Life Member**: Indian Meteorological Society (IMS) *(since 2019)*, South Asian Meteorological Association (SAMA) *(since 2020)*  
 - **Regular Member**: Canadian Meteorological and Oceanographic Society (CMOS), American Meteorological Society (AMS), European Geosciences Union (EGU)  
-- **Affiliated with**: Prerona the Inspiration ([preronaindia.org](http://www.preronaindia.org)), National Academy of Young Scientists (NAYS), Indian Climate Research Network (ICRN), Young Earth System Scientists (YESS)
 
 ### **Outreach**  
 - **Fulbright Cultural Ambassador Program (June 2019 – August 2019)**
