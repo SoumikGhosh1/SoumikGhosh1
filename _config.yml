@@ -10,15 +10,15 @@ title: "Soumik Ghosh"
 # Logo & Description
 logo: "assets/IMG_4829.png"
 # description: "Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change"
-# description: "<strong style='color:#3498DB;'>Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change</strong>"
-description: |
-  <div style="text-align: center; color: #3498DB; font-weight: bold;">
-    Atmospheric & Climate Researcher <br>
-    Extreme Weather & Climate Risk Analysis <br>
-    Climate Modeling & Change
-  </div>
+description: "<strong style='color:#3498DB;'>Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change</strong>"
+# description: |
+#   <div style="text-align: center; color: #3498DB; font-weight: bold;">
+#     Atmospheric & Climate Researcher <br>
+#     Extreme Weather & Climate Risk Analysis <br>
+#     Climate Modeling & Change
+#   </div>
 
-# search: true
+search: true
 # show_downloads: true  # Enable downloads
 
 # SEO and Sitemap Plugins
