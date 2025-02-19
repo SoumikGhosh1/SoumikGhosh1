@@ -1,1 +1,7 @@
+img {
+    border-radius: 50%;
+    width: 150px; /* Adjust as needed */
+    height: 150px; /* Keep equal to width for a perfect circle */
+    object-fit: cover;
+}
 
