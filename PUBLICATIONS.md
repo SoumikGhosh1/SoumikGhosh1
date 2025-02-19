@@ -1,4 +1,7 @@
-# 📚 📄 Peer-Reviewed Publications
+[Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Conferences](./CONFERENCES.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) | [Contact](./CONTACTS.md)
+
+
+# Peer-Reviewed Publications
 
 ### In Preparation/Communicated
 1. **Soumik Ghosh**, Lucas-Picher, P., Roy, P., Gachon, P., & Di Luca, A. (2025). *Optimal Configuration of a Convection-Permitting Regional Climate Model for Precipitation Extremes: An Historical Case Study*. *Journal of Hydrometeorology* (under review).
