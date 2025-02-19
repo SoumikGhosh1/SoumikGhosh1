@@ -1,4 +1,4 @@
-## 📜 Certifications & Courses Taken
+# 📜 Certifications & Courses Taken
 
 ### **Climate Change AI Summer School 2024**  
 *20/06/2024 – 01/08/2024* | Mila - AI Institute, Montreal, Quebec, Canada
