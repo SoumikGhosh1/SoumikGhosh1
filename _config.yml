@@ -5,7 +5,8 @@ theme: jekyll-theme-minimal
 title: "Soumik Ghosh"
 
 # Logo & Description
-logo: "assets/IMG_4829.png"
+# logo: "assets/IMG_4829.png"
+logo: "<img src='assets/IMG_4829.png' class='logo'>"
 description: "<strong style='color:#000000;'>Atmospheric & Climate Researcher | Extreme Weather & Climate Risk Analysis | Climate Modeling & Change</strong>"
 
 search: true
