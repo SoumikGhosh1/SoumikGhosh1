@@ -9,7 +9,7 @@ I am a climate researcher with **12 years** of experience specializing in:
 - **Atmospheric dynamics**
 - **Climate Change**
 
-I have a proven research record with **23+ international publications** and several prestigious awards, including a **FULBRIGHT Grant** for climate study.
+I have **23+ international publications** and several prestigious awards, including a **FULBRIGHT Grant** for climate study.
 
 ---
 
