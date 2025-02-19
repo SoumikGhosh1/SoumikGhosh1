@@ -13,7 +13,7 @@ I have a proven research record with **23+ international publications** and seve
 
 ---
 
-## 🎓 Education
+## Education
 
 ### **Doctor of Philosophy (Ph.D.) in Physics**  
 **Banaras Hindu University, Varanasi, India** &   
@@ -23,9 +23,9 @@ I have a proven research record with **23+ international publications** and seve
 
 ---
 
-## 🧑‍💼 [Professional Experience](./EXPERIENCES.md)
+## [Professional Experience](./EXPERIENCES.md)
 
-## 🚀 [Research & Expertise](./EXPERTISES.md)
+## [Strength](./STRENGTH.md)
 
 ## 🛠️ [Skills](./SKILLS.md)
 
