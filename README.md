@@ -28,7 +28,8 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 
 ## 🚀 [Research & Expertise](./EXPERTISES.md)
 
-## 🏆 [Awards & Achievements](./ACHIEVEMENTS.md) 
+## 🏆 [Awards & Achievements](./ACHIEVEMENTS.md)
+
 ## 🛠️ [Skills](./SKILLS.md)
 
 ## 📜 [Certifications & Courses Taken](./CERTIFICATIONS.md)
@@ -40,12 +41,5 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 ## 👨‍🏫 [Talk/Invited Lecture](./TALKS.md)
 
 ## 🤝 [Professional Service](./SERVICES.md)  
-
-<a href="https://example.com" target="_blank">
-  <div style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px; text-align: center;">
-    Click here to visit Example
-  </div>
-</a>
-
 
 **Let's *collaborate* and drive meaningful climate research together!**
