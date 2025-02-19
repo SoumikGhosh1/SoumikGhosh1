@@ -1,6 +1,6 @@
 [Professional Experience](./EXPERIENCES.md) | [Research & Expertise](./EXPERTISES.md) | [Awards & Achievements](./ACHIEVEMENTS.md) | [Skills](./SKILLS.md) | [Peer-Reviewed Publications](./PUBLICATIONS.md)
 
----
+
 ## 🔬 About Me 
 I am a climate researcher with **12 years** of experience specializing in:
 - Global, Regional, and kilometer-scale **climate modeling**
