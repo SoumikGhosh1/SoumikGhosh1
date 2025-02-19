@@ -18,6 +18,5 @@ Canada
 - ![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg) [**Google Scholar**](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en)
 - ![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_logo.png) [**ResearchGate**](https://www.researchgate.net/profile/Soumik-Ghosh-2)
 - ![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg) [**ORCID**](https://orcid.org/0000-0002-2381-1549)
-- ![Publons](https://upload.wikimedia.org/wikipedia/commons/8/88/Web_of_Science_logo.svg) [**Publons**](Your_Publons_URL)
 
 Looking forward to collaborating with fellow researchers and professionals in the field! 🚀
