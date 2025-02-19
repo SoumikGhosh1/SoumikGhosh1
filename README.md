@@ -41,5 +41,11 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 
 ## 🤝 [Professional Service](./SERVICES.md)  
 
+<a href="https://example.com" target="_blank">
+  <div style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px; text-align: center;">
+    Click here to visit Example
+  </div>
+</a>
+
 
 **Let's *collaborate* and drive meaningful climate research together!**
