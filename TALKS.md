@@ -1,4 +1,7 @@
-# 👨‍🏫 Talk/Invited Lecture
+[Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Conferences](./CONFERENCES.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) | [Contact](./CONTACTS.md)
+
+
+# Talk/Invited Lecture
 
 - **2024**: Annual meeting of the **SACHR** project and annual conference of the **ARRIMÉ** project.
   **Venue**: Pavillon Président-Kennedy, Université du Québec à Montréal, Montréal, Canada
