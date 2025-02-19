@@ -14,3 +14,5 @@ Department of Geophysics, **Banaras Hindu University**, Varanasi, India
 **2013 – 2015** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Junior Research Fellow (JRF)**  
 The Central University of South Bihar (formerly: **Central University of Bihar**), India
 
+
+[⬅ Back to Main Page](./README.md)
