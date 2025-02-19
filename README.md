@@ -1,4 +1,4 @@
-
+[Professional Experience](./EXPERIENCES.md) | [Research & Expertise](./EXPERTISES.md) | [Awards & Achievements](./ACHIEVEMENTS.md) | [Skills](./SKILLS.md) | [Peer-Reviewed Publications](./PUBLICATIONS.md)
 
 ---
 ## 🔬 About Me 
