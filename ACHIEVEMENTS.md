@@ -1,3 +1,5 @@
+# 🏆 [Awards & Achievements]
+
 - **Fulbright-Kalam Climate Fellow** (2019-2020) – Fulbright Commission, USA & India  
 - **Faculty-Dean Post-Doctoral Fellowship** (2020-2022) – Weizmann Institute of Science, Israel  
 - **Postdoctoral Augmented Fellowship** (2021-2023) – Weizmann Institute of Science, Israel  
