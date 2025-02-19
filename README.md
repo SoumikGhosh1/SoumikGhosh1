@@ -27,9 +27,9 @@ I have a proven research record with **23+ international publications** and seve
 
 ## [Strength](./STRENGTH.md)
 
-## 🛠️ [Skills](./SKILLS.md)
+## [Skills](./SKILLS.md)
 
-## 📜 [Certifications & Courses Taken](./CERTIFICATIONS.md) 
+## [Certifications & Courses Taken](./CERTIFICATIONS.md) 
 
 Let's *collaborate* and drive meaningful climate research together!
 
