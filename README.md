@@ -42,4 +42,4 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 
 ## 🤝 [Professional Service](./SERVICES.md)  
 
-**Let's *collaborate* and drive meaningful climate research together!**
+Let's *collaborate* and drive meaningful climate research together!
