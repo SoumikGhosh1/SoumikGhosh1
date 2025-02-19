@@ -1,4 +1,4 @@
-[Professional Experience](./EXPERIENCES.md) | [Research & Expertise](./EXPERTISES.md) | [Awards & Achievements](./ACHIEVEMENTS.md) | [Skills](./SKILLS.md) | [Peer-Reviewed Publications](./PUBLICATIONS.md)
+[Awards & Achievements](./ACHIEVEMENTS.md) | [Peer-Reviewed Publications](./PUBLICATIONS.md) | [Talk/Lecture](./TALKS.md) | [Professional Service](./SERVICES.md) 
 
 
 ## 🔬 About Me 
@@ -28,19 +28,12 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 
 ## 🚀 [Research & Expertise](./EXPERTISES.md)
 
-## 🏆 [Awards & Achievements](./ACHIEVEMENTS.md)
-
 ## 🛠️ [Skills](./SKILLS.md)
 
 ## 📜 [Certifications & Courses Taken](./CERTIFICATIONS.md)
 
-## 📚 [Peer-Reviewed Publications](./PUBLICATIONS.md)
-
 ## 👨‍🏫 [Conferences Presentation](./CONFERENCES.md)
-
-## 👨‍🏫 [Talk/Invited Lecture](./TALKS.md)
-
-## 🤝 [Professional Service](./SERVICES.md)  
+ 
 
 Let's *collaborate* and drive meaningful climate research together!
 
