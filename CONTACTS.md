@@ -4,9 +4,9 @@
 For collaborations, research inquiries, or discussions related to atmospheric and climate science, feel free to reach out.
 
 ### 📍 Office
-Room No.: PK-7230, 
-201, President Kennedy Avenue, 
-Montreal, H2X 3Y7
+Room No.: PK-7230,   
+201, President Kennedy Avenue,   
+Montreal, H2X 3Y7   
 Canada
 
 ### 📞 Contact Information
