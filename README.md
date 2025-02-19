@@ -15,11 +15,12 @@ I have a proven research record with **23+ international publications** and seve
 
 ## Education
 
-### **Doctor of Philosophy (Ph.D.) in Physics**  
-**Banaras Hindu University, Varanasi, India** &   
-**Scripps Institution of Oceanography*, **University of California, San Diego, CA, United States  
-&nbsp;&nbsp;&nbsp; *(under Fulbright Exchange Program)*   
-**2015 – 2020**
+### **Doctor of Philosophy (Ph.D.)** in *Physics*  
+**Institute/University:**   
+&nbsp;&nbsp;&nbsp; *Banaras Hindu University*, Varanasi, India   
+& &nbsp;*Scripps Institution of Oceanography*, University of California, San Diego, CA, United States   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(under Fulbright Exchange Program)*   
+*Year:* 2015 – 2020
 
 ---
 
