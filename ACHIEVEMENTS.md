@@ -1,3 +1,6 @@
+[Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Conferences](./CONFERENCES.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) | [Contact](./CONTACTS.md)
+
+
 # 🏆 Awards & Achievements
 
 - **Fulbright-Kalam Climate Fellow** (2019-2020) – Fulbright Commission, USA & India  
