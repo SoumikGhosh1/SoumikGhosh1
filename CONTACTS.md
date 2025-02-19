@@ -18,6 +18,7 @@ Canada
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="16" height="16"> [**Google Scholar**](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/RG_Logo.png" width="16" height="16"> [**ResearchGate**](https://www.researchgate.net/profile/Soumik-Ghosh-2)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" height="16"> [**ORCID**](https://orcid.org/0000-0002-2381-1549)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16"> [**Github**](https://github.com/SoumikGhosh1)
 
 Looking forward to collaborating with fellow researchers and professionals in the field! 🚀
 
