@@ -27,5 +27,6 @@
 22.	P. Parth Sarthi, P Kumar and **Soumik Ghosh** (2016) [*Possible Future Rainfall over the Gangetic Plains (GP), India, in Multi-Model Simulations of CMIP3 and CMIP5*](https://doi.org/10.1007/s00704-015-1447-5). *Theoretical and Applied Climatology*, 124 (3), 691–701.
 23.	P. Parth Sarthi, **Soumik Ghosh** and P Kumar (2015) [*Possible Future Projection of Indian Summer Monsoon Rainfall (ISMR) with the evaluation of model performance in Coupled Model Inter-comparison Project Phase 5 (CMIP5)*](https://doi.org/10.1016/j.gloplacha.2015.03.005). *Global and Planetary Change*, 129: 92–106.
 24.	R Bhatla and **Soumik Ghosh** (2015) [*Study of Break Phase of Indian Summer Monsoon using Different Parameterization Schemes of RegCM4.3*](). *Int. J. Eart. Atmos. Sci.* 2(3), 109-115.
- 
 
+   
+[⬅ Back to Main Page](./README.md)
