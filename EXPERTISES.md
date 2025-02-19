@@ -6,4 +6,5 @@
 - **Machine Learning (ML)** for Climate Science
 - **Scientific Writing & Publications**: Lead author in 6 high-impact journals (e.g., Journal of Climate, Climate Dynamics, Atmospheric Research etc.)
 
-
+   
+[⬅ Back to Main Page](./README.md)
