@@ -1,4 +1,4 @@
-[Awards & Achievements](./ACHIEVEMENTS.md) | [Peer-Reviewed Publications](./PUBLICATIONS.md) | [Talk/Lecture](./TALKS.md) | [Professional Service](./SERVICES.md) 
+[Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) 
 
 
 ## 🔬 About Me 
