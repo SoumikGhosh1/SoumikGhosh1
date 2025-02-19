@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Soumik-Ghosh-2) | [Orcid](https://orcid.org/0000-0002-2381-1549) | [Github](https://github.com/SoumikGhosh1)
+
 
 ---
 ## 🔬 About Me 
@@ -43,3 +43,5 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 ## 🤝 [Professional Service](./SERVICES.md)  
 
 Let's *collaborate* and drive meaningful climate research together!
+
+[LinkedIn](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Soumik-Ghosh-2) | [Orcid](https://orcid.org/0000-0002-2381-1549) | [Github](https://github.com/SoumikGhosh1)
