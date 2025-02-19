@@ -33,3 +33,6 @@ I have a proven research record with **23+ international publications** and seve
 Let's *collaborate* and drive meaningful climate research together!
 
 [LinkedIn](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | [Google Scholar](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Soumik-Ghosh-2) | [Orcid](https://orcid.org/0000-0002-2381-1549) | [Github](https://github.com/SoumikGhosh1)
+
+   
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" height="16"> [**LinkedIn**](https://www.linkedin.com/in/soumik-ghosh-97004277/?originalSubdomain=ca) | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="16" height="16"> [**Google Scholar**](https://scholar.google.co.in/citations?user=ds5ggVoAAAAJ&hl=en) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/RG_Logo.png" width="16" height="16"> [**ResearchGate**](https://www.researchgate.net/profile/Soumik-Ghosh-2) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" height="16"> [**ORCID**](https://orcid.org/0000-0002-2381-1549)
