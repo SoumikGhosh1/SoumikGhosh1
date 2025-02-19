@@ -1,4 +1,4 @@
-[Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) 
+[Awards](./ACHIEVEMENTS.md) || [Publications](./PUBLICATIONS.md) | [Conferences](./CONFERENCES.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) 
 
 
 ## 🔬 About Me 
@@ -30,10 +30,7 @@ Feel free to *reach out via **email** [📧](mailto:soumik.ghosh@fulbrightmail.o
 
 ## 🛠️ [Skills](./SKILLS.md)
 
-## 📜 [Certifications & Courses Taken](./CERTIFICATIONS.md)
-
-## 👨‍🏫 [Conferences Presentation](./CONFERENCES.md)
- 
+## 📜 [Certifications & Courses Taken](./CERTIFICATIONS.md) 
 
 Let's *collaborate* and drive meaningful climate research together!
 
