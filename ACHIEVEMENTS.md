@@ -1,7 +1,7 @@
 [Home](./README.md) | [Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Conferences](./CONFERENCES.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) | [Contact](./CONTACTS.md)
 
 
-# 🏆 Awards & Achievements
+# Awards & Achievements
 
 - **Fulbright-Kalam Climate Fellow** (2019-2020) – Fulbright Commission, USA & India  
 - **Faculty-Dean Post-Doctoral Fellowship** (2020-2022) – Weizmann Institute of Science, Israel  
