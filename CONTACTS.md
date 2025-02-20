@@ -13,7 +13,7 @@ Montreal, H2X 3Y7
 Canada
 
 ### 📞 Contact
-📧 Email: [soumik.ghosh@fulbrightmail.org](soumik.ghosh@fulbrightmail.org)
+📧 [soumik.ghosh@fulbrightmail.org](soumik.ghosh@fulbrightmail.org)
 
 ## 🌐 Connect with Me
 
