@@ -2,7 +2,7 @@
 
 
 ## 🔬 About Me 
-I am a climate researcher with **12 years** of experience specializing in:
+I am a climate researcher with **12 years** of experience and specializing in:
 - Global, Regional, and kilometer-scale **climate modeling**
 - **Convection-permitting climate modeling**
 - **Hydrometeorological risk assessment**
