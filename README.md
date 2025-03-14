@@ -17,8 +17,8 @@ I have **23+ international publications** and several prestigious awards, includ
 
 ### **Doctor of Philosophy (Ph.D.)** in *Physics*  
 **Institute/University:**   
-&nbsp;&nbsp;&nbsp; *Banaras Hindu University*, Varanasi, India   
-& &nbsp;*Scripps Institution of Oceanography*, University of California, San Diego, CA, United States   
+&nbsp;&nbsp;&nbsp; *Banaras Hindu University*, Varanasi, India.   
+& &nbsp;*Scripps Institution of Oceanography*, University of California, San Diego, CA, United States.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(under Fulbright Exchange Program)*   
 *Year:* 2015 – 2020
 
