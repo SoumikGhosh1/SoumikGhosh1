@@ -4,7 +4,7 @@
 # Peer-Reviewed Publications
 
 ### In Preparation/Communicated
-1. **Soumik Ghosh**, Lucas-Picher, P., Roy, P., Gachon, P., & Di Luca, A. (2025). *Optimal Configuration of a Convection-Permitting Regional Climate Model for Precipitation Extremes: An Historical Case Study*. *Journal of Hydrometeorology* (under review).
+1. **Soumik Ghosh**, Lucas-Picher, P., Roy, P., Gachon, P., & Di Luca, A. (2025). *Optimal Configuration of a Convection-Permitting Regional Climate Model for Precipitation Extremes: An Historical Case Study*. *Journal of Hydrometeorology* (in revision).
 
 ### Published / Accepted
 2.	**Soumik Ghosh**, Orli Lachmy, and Yohai Kaspi (2024) [*The role of diabatic heating in the midlatitude atmospheric circulation response to climate change*](https://doi.org/10.1175/JCLI-D-23-0345.1). *Journal of Climate*. 37(10), 2987–3009.
