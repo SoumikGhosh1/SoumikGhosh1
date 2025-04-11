@@ -1,7 +1,7 @@
 [**Home**](./README.md) | [Awards](./ACHIEVEMENTS.md) | [Publications](./PUBLICATIONS.md) | [Conferences](./CONFERENCES.md) | [Talks](./TALKS.md) | [Services](./SERVICES.md) | [Contact](./CONTACTS.md)
 
 
-## 🔬 About Me 
+## 🔬 About Me
 I am a climate researcher with **12 years** of experience and specializing in:
 - Global, Regional, and kilometer-scale **climate modeling**
 - **Convection-permitting climate modeling**
