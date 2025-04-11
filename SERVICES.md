@@ -27,8 +27,7 @@
   - **18/05/2016, 20/05/2016 & 22/05/2016**: Shortlisting camp for poor and talented students through field visits to villages in Kandi Sub-Division, Murshidabad, West Bengal, India
   - **30/08/2020**: Covid-19 crisis blood donation camp for Sub-division Hospital blood bank, Kandi, West Bengal, India
   - **30/05/2021**: Food supplies and science promotion at Sonarundi Sanandha Dham Orphanage, Murshidabad, West Bengal, India
-  - **27/06/2021**: Covid-19 relief package distribution and career counseling for students at Chhatinakandi, Kandi, West Bengal, India
-  ... and more
+  - **27/06/2021**: Covid-19 relief package distribution and career counseling for students at Chhatinakandi, Kandi, West Bengal, India  ... and more
 
 
 
